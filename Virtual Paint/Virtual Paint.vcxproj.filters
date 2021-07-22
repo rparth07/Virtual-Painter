@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Helllo-world.cpp">
+    <ClCompile Include="Virtual Painter.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

@@ -1,4 +1,7 @@
 ﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Virtual Paint.vcxproj).  This can lead to incorrect clean and rebuild behavior.
-  Helllo-world.cpp
-C:\Users\KIshan\Downloads\repos\rparth07\Virtual Painter\Virtual Paint\Helllo-world.cpp(9,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Virtual Painter.cpp
+C:\Users\KIshan\Downloads\repos\rparth07\Virtual Painter\Virtual Paint\Virtual Painter.cpp(44,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\KIshan\Downloads\repos\rparth07\Virtual Painter\Virtual Paint\Virtual Painter.cpp(49,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\KIshan\Downloads\repos\rparth07\Virtual Painter\Virtual Paint\Virtual Painter.cpp(92,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\KIshan\Downloads\repos\rparth07\Virtual Painter\Virtual Paint\Virtual Painter.cpp(62): warning C4715: 'getContours': not all control paths return a value
   Virtual Paint.vcxproj -> C:\Users\KIshan\Downloads\repos\rparth07\Virtual Painter\x64\Debug\Virtual Painter.exe
