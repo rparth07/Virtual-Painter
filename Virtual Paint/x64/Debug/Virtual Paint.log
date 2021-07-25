@@ -1,7 +1,9 @@
 ﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Virtual Paint.vcxproj).  This can lead to incorrect clean and rebuild behavior.
-  Virtual Painter.cpp
-C:\Users\KIshan\Downloads\repos\rparth07\Virtual Painter\Virtual Paint\Virtual Painter.cpp(44,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-C:\Users\KIshan\Downloads\repos\rparth07\Virtual Painter\Virtual Paint\Virtual Painter.cpp(49,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-C:\Users\KIshan\Downloads\repos\rparth07\Virtual Painter\Virtual Paint\Virtual Painter.cpp(92,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
-C:\Users\KIshan\Downloads\repos\rparth07\Virtual Painter\Virtual Paint\Virtual Painter.cpp(62): warning C4715: 'getContours': not all control paths return a value
+  hands-painter.cpp
+C:\Users\KIshan\Downloads\repos\rparth07\Virtual Painter\Virtual Paint\hands-painter.cpp(47,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\KIshan\Downloads\repos\rparth07\Virtual Painter\Virtual Paint\hands-painter.cpp(182,12): warning C4804: '<=': unsafe use of type 'bool' in operation
+C:\Users\KIshan\Downloads\repos\rparth07\Virtual Painter\Virtual Paint\hands-painter.cpp(196,18): warning C4804: '<=': unsafe use of type 'bool' in operation
+C:\Users\KIshan\Downloads\repos\rparth07\Virtual Painter\Virtual Paint\hands-painter.cpp(199,18): warning C4804: '<=': unsafe use of type 'bool' in operation
+C:\Users\KIshan\Downloads\repos\rparth07\Virtual Painter\Virtual Paint\hands-painter.cpp(202,18): warning C4804: '<=': unsafe use of type 'bool' in operation
+C:\Users\KIshan\Downloads\repos\rparth07\Virtual Painter\Virtual Paint\hands-painter.cpp(205,18): warning C4804: '<=': unsafe use of type 'bool' in operation
   Virtual Paint.vcxproj -> C:\Users\KIshan\Downloads\repos\rparth07\Virtual Painter\x64\Debug\Virtual Painter.exe

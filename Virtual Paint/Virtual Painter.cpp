@@ -57,8 +57,8 @@ Point getContours(Mat imgDil) {
 			drawContours(img, conPoly, i, Scalar(255, 0, 255), 2);
 			rectangle(img, boundRect[i].tl(), boundRect[i].br(), Scalar(0, 255, 0), 5);
 		}
-		return myPoint;
 	}
+	return myPoint;
 }
 
 void drawOnCanvas(vector<vector<int>> newPoints, vector<Scalar> myColorValues) {
